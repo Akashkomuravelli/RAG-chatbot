@@ -1,4 +1,4 @@
-# Knowledge Base RAG Chatbot
+MyRAG Chatbot
 
 A production-oriented Retrieval-Augmented Generation chatbot built with Streamlit, LangChain, Hugging Face sentence-transformer embeddings, Pinecone, and Groq. It answers from indexed PDF documents and cites the retrieved document pages instead of behaving like an ungrounded general-purpose chatbot.
 
